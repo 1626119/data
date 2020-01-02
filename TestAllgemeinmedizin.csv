@@ -1,4 +1,4 @@
-﻿Arzt Fachrichtung,Jahr,Stadtteile,Dichte,Anzahl Einwohner,Anzahl Arzt
+﻿ArztFachrichtung,Jahr,Stadtteile,Dichte,AnzahlEinwohner,AnzahlArzt
 Allgemeinmedizin,2017,Ludwigsvorstadt-Isarvorstadt,819.6,51632,63
 Allgemeinmedizin,2017,Altstadt-Lehel,367.1,20926,57
 Allgemeinmedizin,2017,Sendling-Westpark,3493.3,100068,41
@@ -13,7 +13,6 @@ Allgemeinmedizin,2017,Thalkirchen-Obersendling,2171.7,31851,15
 Allgemeinmedizin,2017,Schwabing-Freimann,2120.6,76341,36
 Allgemeinmedizin,2017,Neuhausen,2096.2,49260,24
 Allgemeinmedizin,2017,Schwabing-West,2007.8,68265,34
-Allgemeinmedizin,2017,Stadt Muenchen,1956.5,1526056,780
 Allgemeinmedizin,2017,Bogenhausen,1953.9,85971,44
 Allgemeinmedizin,2017,Harlaching,1878.6,52600,28
 Allgemeinmedizin,2017,Aubing-Lochhausen-Langwied,1855.4,46385,25
