@@ -1,0 +1,234 @@
+[
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Ludwigsvorstadt-Isarvorstadt",
+    "Dichte": 819.6,
+    "Anzahl Einwohner": 51632,
+    "Anzahl Arzt": 63
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Altstadt-Lehel",
+    "Dichte": 367.1,
+    "Anzahl Einwohner": 20926,
+    "Anzahl Arzt": 57
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Sendling-Westpark",
+    "Dichte": 3493.3,
+    "Anzahl Einwohner": 100068,
+    "Anzahl Arzt": 41
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Hadern",
+    "Dichte": 3101.6,
+    "Anzahl Einwohner": 49626,
+    "Anzahl Arzt": 16
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Berg am Laim",
+    "Dichte": 3038.8,
+    "Anzahl Einwohner": 45582,
+    "Anzahl Arzt": 15
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Giesing",
+    "Dichte": 2838.8,
+    "Anzahl Einwohner": 53937,
+    "Anzahl Arzt": 19
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Allach-Untermenzing",
+    "Dichte": 2723.1,
+    "Anzahl Einwohner": 32677,
+    "Anzahl Arzt": 12
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Moosach",
+    "Dichte": 2683.1,
+    "Anzahl Einwohner": 53662,
+    "Anzahl Arzt": 20
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Feldmoching-Hasenbergl",
+    "Dichte": 2437.3,
+    "Anzahl Einwohner": 60933,
+    "Anzahl Arzt": 25
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Pasing",
+    "Dichte": 2390.3,
+    "Anzahl Einwohner": 37049,
+    "Anzahl Arzt": 15
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Thalkirchen-Obersendling",
+    "Dichte": 2171.7,
+    "Anzahl Einwohner": 31851,
+    "Anzahl Arzt": 15
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Schwabing-Freimann",
+    "Dichte": 2120.6,
+    "Anzahl Einwohner": 76341,
+    "Anzahl Arzt": 36
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Neuhausen",
+    "Dichte": 2096.2,
+    "Anzahl Einwohner": 49260,
+    "Anzahl Arzt": 24
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Schwabing-West",
+    "Dichte": 2007.8,
+    "Anzahl Einwohner": 68265,
+    "Anzahl Arzt": 34
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Stadt Muenchen",
+    "Dichte": 1956.5,
+    "Anzahl Einwohner": 1526056,
+    "Anzahl Arzt": 780
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Bogenhausen",
+    "Dichte": 1953.9,
+    "Anzahl Einwohner": 85971,
+    "Anzahl Arzt": 44
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Harlaching",
+    "Dichte": 1878.6,
+    "Anzahl Einwohner": 52600,
+    "Anzahl Arzt": 28
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Aubing-Lochhausen-Langwied",
+    "Dichte": 1855.4,
+    "Anzahl Einwohner": 46385,
+    "Anzahl Arzt": 25
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Au-Haidhausen",
+    "Dichte": 1846.6,
+    "Anzahl Einwohner": 60937,
+    "Anzahl Arzt": 33
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Maxvorstadt",
+    "Dichte": 1769.3,
+    "Anzahl Einwohner": 51311,
+    "Anzahl Arzt": 29
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Schwanthalerhoehe",
+    "Dichte": 1640.8,
+    "Anzahl Einwohner": 29535,
+    "Anzahl Arzt": 18
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Laim",
+    "Dichte": 1481.1,
+    "Anzahl Einwohner": 56281,
+    "Anzahl Arzt": 38
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Milbertshofen-Am Hart",
+    "Dichte": 2669,
+    "Anzahl Einwohner": 74731,
+    "Anzahl Arzt": 28
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Trudering-Riem",
+    "Dichte": 2483,
+    "Anzahl Einwohner": 72006,
+    "Anzahl Arzt": 29
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Ramersdorf-Perlach",
+    "Dichte": 2385,
+    "Anzahl Einwohner": 114478,
+    "Anzahl Arzt": 48
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Nymphenburg",
+    "Dichte": 2096.2,
+    "Anzahl Einwohner": 49260,
+    "Anzahl Arzt": 24
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Obermenzing",
+    "Dichte": 2390.3,
+    "Anzahl Einwohner": 37049,
+    "Anzahl Arzt": 15
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Forstenried-Fuerstenried",
+    "Dichte": 2171.7,
+    "Anzahl Einwohner": 31851,
+    "Anzahl Arzt": 15
+  },
+  {
+    "Arzt Fachrichtung": "Allgemeinmedizin",
+    "Jahr": 2017,
+    "Stadtteile": "Solln",
+    "Dichte": 2171.7,
+    "Anzahl Einwohner": 31851,
+    "Anzahl Arzt": 15
+  }
+]
