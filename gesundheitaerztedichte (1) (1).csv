@@ -1,4 +1,4 @@
-Arzt Fachrichtung;Jahr;R„umliche Gliederung;rztedichte;Anzahl Einwohner;Anzahl rzte
+Arzt Fachrichtung;Jahr;RÃ¤umliche Gliederung;Ã„rztedichte;Anzahl Einwohner;Anzahl Ã„rzte
 Frauenheilkunde und Geburtshilfe;2017;Laim;9560.3;28681;3
 Frauenheilkunde und Geburtshilfe;2015;Ludwigsvorstadt-Isarvorstadt;935.2;26186;28
 Frauenheilkunde und Geburtshilfe;2016;Ludwigsvorstadt-Isarvorstadt;917.6;26609;29
@@ -23,9 +23,9 @@ Frauenheilkunde und Geburtshilfe;2015;Allach-Untermenzing;7979.5;15959;2
 Frauenheilkunde und Geburtshilfe;2016;Berg am Laim;7687.3;23062;3
 Frauenheilkunde und Geburtshilfe;2015;Sendling-Westpark;7459.8;50251;6
 Allgemeinmedizin;2014;Ludwigsvorstadt-Isarvorstadt;745.4;52177;70
-Frauenheilkunde und Geburtshilfe;2016;Schwanthalerh”he;7350.5;14701;2
+Frauenheilkunde und Geburtshilfe;2016;Schwanthalerhâ€he;7350.5;14701;2
 Frauenheilkunde und Geburtshilfe;2017;Ramersdorf-Perlach;7277.6;58221;8
-Frauenheilkunde und Geburtshilfe;2017;Schwanthalerh”he;7234.5;14469;2
+Frauenheilkunde und Geburtshilfe;2017;Schwanthalerhâ€he;7234.5;14469;2
 Frauenheilkunde und Geburtshilfe;2016;Ramersdorf-Perlach;7234.1;57873;8
 Frauenheilkunde und Geburtshilfe;2016;Laim;7214.3;28857;4
 Frauenheilkunde und Geburtshilfe;2015;Ramersdorf-Perlach;7154.6;57237;8
@@ -51,12 +51,12 @@ Frauenheilkunde und Geburtshilfe;2017;Harlaching;5461.6;27308;5
 Frauenheilkunde und Geburtshilfe;2014;Harlaching;5442.4;27212;5
 Frauenheilkunde und Geburtshilfe;2012;Berg am Laim;5431.5;21726;4
 Frauenheilkunde und Geburtshilfe;2012;Moosach;5041.4;25207;5
-Frauenheilkunde und Geburtshilfe;2015;Schwanthalerh”he;4924.3;14773;3
-Frauenheilkunde und Geburtshilfe;2013;Schwanthalerh”he;4799.7;14399;3
+Frauenheilkunde und Geburtshilfe;2015;Schwanthalerhâ€he;4924.3;14773;3
+Frauenheilkunde und Geburtshilfe;2013;Schwanthalerhâ€he;4799.7;14399;3
 Frauenheilkunde und Geburtshilfe;2014;Thalkirchen, Obersendling;4722.5;15741;3
 Frauenheilkunde und Geburtshilfe;2014;Laim;4711.5;28269;6
 Frauenheilkunde und Geburtshilfe;2013;Thalkirchen, Obersendling;4659.8;15532;3
-Frauenheilkunde und Geburtshilfe;2011;Schwanthalerh”he;4647.7;13943;3
+Frauenheilkunde und Geburtshilfe;2011;Schwanthalerhâ€he;4647.7;13943;3
 Frauenheilkunde und Geburtshilfe;2010;Laim;4514.8;27089;6
 Frauenheilkunde und Geburtshilfe;2011;Thalkirchen, Obersendling;4446.1;14820;3
 Frauenheilkunde und Geburtshilfe;2015;Thalkirchen, Obersendling;4381.6;16065;4
@@ -161,25 +161,25 @@ Allgemeinmedizin;2012;Milbertshofen-Am Hart;2265.8;72506;32
 Allgemeinmedizin;2013;Ramersdorf-Perlach;2255.1;108244;48
 Allgemeinmedizin;2011;Ramersdorf-Perlach;2253.2;105900;47
 Allgemeinmedizin;2010;Berg am Laim;2252.8;40550;18
-Frauenheilkunde und Geburtshilfe;2014;Stadt Mnchen;2240.4;757251;338
+Frauenheilkunde und Geburtshilfe;2014;Stadt MÂnchen;2240.4;757251;338
 Allgemeinmedizin;2013;Milbertshofen-Am Hart;2230.8;73617;33
 Allgemeinmedizin;2013;Thalkirchen, Obersendling;2214.4;30263;14
 Frauenheilkunde und Geburtshilfe;2014;Schwabing-West;2211.6;35386;16
 Allgemeinmedizin;2016;Schwabing-Freimann;2205.4;77188;35
 Allgemeinmedizin;2011;Milbertshofen-Am Hart;2202.2;70470;32
-Frauenheilkunde und Geburtshilfe;2016;Stadt Mnchen;2201.8;779420;354
+Frauenheilkunde und Geburtshilfe;2016;Stadt MÂnchen;2201.8;779420;354
 Allgemeinmedizin;2013;Schwabing-West;2196.4;65892;30
 Allgemeinmedizin;2011;Thalkirchen, Obersendling;2191.5;28489;13
 Allgemeinmedizin;2012;Thalkirchen, Obersendling;2181.8;29090;13
 Allgemeinmedizin;2014;Pasing;2178.2;35940;17
-Frauenheilkunde und Geburtshilfe;2013;Stadt Mnchen;2174.5;745857;343
-Frauenheilkunde und Geburtshilfe;2017;Stadt Mnchen;2172.7;773462;356
-Frauenheilkunde und Geburtshilfe;2012;Stadt Mnchen;2172.2;734211;338
+Frauenheilkunde und Geburtshilfe;2013;Stadt MÂnchen;2174.5;745857;343
+Frauenheilkunde und Geburtshilfe;2017;Stadt MÂnchen;2172.7;773462;356
+Frauenheilkunde und Geburtshilfe;2012;Stadt MÂnchen;2172.2;734211;338
 Allgemeinmedizin;2017;Thalkirchen, Obersendling;2171.7;31851;15
-Frauenheilkunde und Geburtshilfe;2011;Stadt Mnchen;2167.2;721664;333
+Frauenheilkunde und Geburtshilfe;2011;Stadt MÂnchen;2167.2;721664;333
 Allgemeinmedizin;2011;Trudering-Riem;2166.1;64983;30
 Allgemeinmedizin;2016;Neuhausen;2163.9;49769;23
-Frauenheilkunde und Geburtshilfe;2010;Stadt Mnchen;2158.6;710192;329
+Frauenheilkunde und Geburtshilfe;2010;Stadt MÂnchen;2158.6;710192;329
 Allgemeinmedizin;2014;Feldmoching-Hasenbergl;2152.2;60262;28
 Allgemeinmedizin;2015;Schwabing-Freimann;2143.4;75020;35
 Frauenheilkunde und Geburtshilfe;2012;Schwabing-West;2140.7;34251;16
@@ -208,17 +208,17 @@ Frauenheilkunde und Geburtshilfe;2011;Au-Haidhausen;1981.7;29725;15
 Allgemeinmedizin;2016;Aubing-Lochhausen-Langwied;1981.4;45571;23
 Frauenheilkunde und Geburtshilfe;2014;Schwabing-Freimann;1969.6;35453;18
 Allgemeinmedizin;2013;Pasing;1966.2;35391;18
-Allgemeinmedizin;2017;Stadt Mnchen;1956.5;1526056;780
+Allgemeinmedizin;2017;Stadt MÂnchen;1956.5;1526056;780
 Frauenheilkunde und Geburtshilfe;2010;Au-Haidhausen;1954.4;29316;15
 Allgemeinmedizin;2017;Bogenhausen;1953.9;85971;44
 Allgemeinmedizin;2014;Aubing-Lochhausen-Langwied;1948.1;42859;22
 Allgemeinmedizin;2010;Aubing-Lochhausen-Langwied;1943.2;38863;20
-Allgemeinmedizin;2016;Stadt Mnchen;1921.4;1542860;803
+Allgemeinmedizin;2016;Stadt MÂnchen;1921.4;1542860;803
 Frauenheilkunde und Geburtshilfe;2016;Schwabing-West;1920.1;36482;19
 Frauenheilkunde und Geburtshilfe;2015;Maxvorstadt;1904.1;26658;14
 Allgemeinmedizin;2015;Aubing-Lochhausen-Langwied;1899.2;43682;23
 Frauenheilkunde und Geburtshilfe;2017;Schwabing-West;1895.2;36008;19
-Allgemeinmedizin;2015;Stadt Mnchen;1892.6;1521678;804
+Allgemeinmedizin;2015;Stadt MÂnchen;1892.6;1521678;804
 Frauenheilkunde und Geburtshilfe;2016;Schwabing-Freimann;1891.6;37832;20
 Frauenheilkunde und Geburtshilfe;2017;Schwabing-Freimann;1884.9;37698;20
 Allgemeinmedizin;2017;Harlaching;1878.6;52600;28
@@ -235,27 +235,27 @@ Allgemeinmedizin;2016;Au-Haidhausen;1823.5;61999;34
 Frauenheilkunde und Geburtshilfe;2015;Schwabing-Freimann;1818.9;36378;20
 Frauenheilkunde und Geburtshilfe;2014;Milbertshofen-Am Hart;18068.5;36137;2
 Allgemeinmedizin;2014;Neuhausen;1805.9;48761;27
-Allgemeinmedizin;2013;Stadt Mnchen;1795.3;1464962;816
+Allgemeinmedizin;2013;Stadt MÂnchen;1795.3;1464962;816
 Allgemeinmedizin;2015;Harlaching;1779.2;53377;30
 Frauenheilkunde und Geburtshilfe;2012;Milbertshofen-Am Hart;17728.5;35457;2
-Allgemeinmedizin;2014;Schwanthalerh”he;1769.6;30083;17
+Allgemeinmedizin;2014;Schwanthalerhâ€he;1769.6;30083;17
 Allgemeinmedizin;2017;Maxvorstadt;1769.3;51311;29
-Allgemeinmedizin;2012;Stadt Mnchen;1757.6;1439474;819
-Allgemeinmedizin;2013;Schwanthalerh”he;1744.9;29663;17
+Allgemeinmedizin;2012;Stadt MÂnchen;1757.6;1439474;819
+Allgemeinmedizin;2013;Schwanthalerhâ€he;1744.9;29663;17
 Allgemeinmedizin;2016;Bogenhausen;1743.3;87164;50
 Allgemeinmedizin;2015;Bogenhausen;1718.9;85947;50
 Frauenheilkunde und Geburtshilfe;2013;Maxvorstadt;1717.7;25765;15
 Allgemeinmedizin;2010;Allach-Untermenzing;1715.4;29161;17
 Frauenheilkunde und Geburtshilfe;2010;Milbertshofen-Am Hart;17103.5;34207;2
-Allgemeinmedizin;2011;Stadt Mnchen;1705.9;1410741;827
+Allgemeinmedizin;2011;Stadt MÂnchen;1705.9;1410741;827
 Frauenheilkunde und Geburtshilfe;2012;Maxvorstadt;1698.7;25480;15
 Allgemeinmedizin;2013;Neuhausen;1682.6;47953;29
 Allgemeinmedizin;2016;Maxvorstadt;1670.1;53443;32
 Allgemeinmedizin;2011;Pasing;1655.6;33939;20
-Allgemeinmedizin;2017;Schwanthalerh”he;1640.8;29535;18
+Allgemeinmedizin;2017;Schwanthalerhâ€he;1640.8;29535;18
 Frauenheilkunde und Geburtshilfe;2010;Maxvorstadt;1640.7;24610;15
 Allgemeinmedizin;2011;Harlaching;1627.6;50455;31
-Allgemeinmedizin;2010;Stadt Mnchen;1624.3;1382273;851
+Allgemeinmedizin;2010;Stadt MÂnchen;1624.3;1382273;851
 Allgemeinmedizin;2011;Neuhausen;1616.5;46069;29
 Allgemeinmedizin;2012;Bogenhausen;1616.3;80816;50
 Allgemeinmedizin;2013;Bogenhausen;1610.6;82138;51
@@ -266,7 +266,7 @@ Allgemeinmedizin;2015;Au-Haidhausen;1576.8;61495;39
 Frauenheilkunde und Geburtshilfe;2013;Schwabing-Freimann;1575.8;34667;22
 Frauenheilkunde und Geburtshilfe;2014;Bogenhausen;1564.3;43799;28
 Frauenheilkunde und Geburtshilfe;2012;Schwabing-Freimann;1554.1;34191;22
-Allgemeinmedizin;2012;Schwanthalerh”he;1547.5;29402;19
+Allgemeinmedizin;2012;Schwanthalerhâ€he;1547.5;29402;19
 Frauenheilkunde und Geburtshilfe;2017;Bogenhausen;1541.9;44716;29
 Frauenheilkunde und Geburtshilfe;2012;Neuhausen-Nymphenburg;1539.4;24631;16
 Frauenheilkunde und Geburtshilfe;2014;Maxvorstadt;1538.7;26157;17
@@ -274,9 +274,9 @@ Allgemeinmedizin;2012;Laim;1524.5;53359;35
 Frauenheilkunde und Geburtshilfe;2011;Schwabing-Freimann;1520.7;33455;22
 Allgemeinmedizin;2014;Laim;1519.8;54714;36
 Frauenheilkunde und Geburtshilfe;2010;Neuhausen-Nymphenburg;1516.1;23500;15
-Allgemeinmedizin;2016;Schwanthalerh”he;1514.1;30282;20
+Allgemeinmedizin;2016;Schwanthalerhâ€he;1514.1;30282;20
 Frauenheilkunde und Geburtshilfe;2011;Neuhausen-Nymphenburg;1509.8;24157;16
-Allgemeinmedizin;2011;Schwanthalerh”he;1509.4;28678;19
+Allgemeinmedizin;2011;Schwanthalerhâ€he;1509.4;28678;19
 Allgemeinmedizin;2014;Maxvorstadt;1502.1;52575;35
 Allgemeinmedizin;2013;Laim;1500.8;54030;36
 Frauenheilkunde und Geburtshilfe;2014;Altstadt-Lehel;150.5;10386;69
@@ -285,7 +285,7 @@ Frauenheilkunde und Geburtshilfe;2010;Schwabing-Freimann;1494.1;32870;22
 Allgemeinmedizin;2015;Maxvorstadt;1492.9;53743;36
 Frauenheilkunde und Geburtshilfe;2013;Bogenhausen;1482.5;42992;29
 Allgemeinmedizin;2017;Laim;1481.1;56281;38
-Allgemeinmedizin;2010;Schwanthalerh”he;1473.9;28004;19
+Allgemeinmedizin;2010;Schwanthalerhâ€he;1473.9;28004;19
 Allgemeinmedizin;2011;Laim;1464.8;52733;36
 Frauenheilkunde und Geburtshilfe;2010;Bogenhausen;1460.5;40894;28
 Allgemeinmedizin;2010;Harlaching;1455.9;49502;34
@@ -362,11 +362,11 @@ Frauenheilkunde und Geburtshilfe;2010;Harlaching;6454.0;25816;4
 Frauenheilkunde und Geburtshilfe;2015;Aubing-Lochhausen-Langwied;5537;22148;4
 Frauenheilkunde und Geburtshilfe;2015;Harlaching;5492.0;27460;5
 Frauenheilkunde und Geburtshilfe;2011;Berg am Laim;5321;21284;4
-Frauenheilkunde und Geburtshilfe;2014;Schwanthalerh”he;4877;14631;3
-Frauenheilkunde und Geburtshilfe;2012;Schwanthalerh”he;4764;14292;3
+Frauenheilkunde und Geburtshilfe;2014;Schwanthalerhâ€he;4877;14631;3
+Frauenheilkunde und Geburtshilfe;2012;Schwanthalerhâ€he;4764;14292;3
 Frauenheilkunde und Geburtshilfe;2017;Aubing-Lochhausen-Langwied;4600;23000;5
 Frauenheilkunde und Geburtshilfe;2016;Aubing-Lochhausen-Langwied;4563;22815;5
-Frauenheilkunde und Geburtshilfe;2010;Schwanthalerh”he;4558;13674;3
+Frauenheilkunde und Geburtshilfe;2010;Schwanthalerhâ€he;4558;13674;3
 Frauenheilkunde und Geburtshilfe;2012;Thalkirchen, Obersendling;4525.0;15083;3
 Frauenheilkunde und Geburtshilfe;2016;Moosach;4475;26850;6
 Frauenheilkunde und Geburtshilfe;2017;Moosach;4472;26832;6
@@ -382,17 +382,17 @@ Allgemeinmedizin;2014;Berg am Laim;2317;44022;19
 Frauenheilkunde und Geburtshilfe;2010;Schwabing-West;2224;33360;15
 Allgemeinmedizin;2010;Ramersdorf-Perlach;2182;104737;48
 Allgemeinmedizin;2016;Schwabing-West;2169;69407;32
-Frauenheilkunde und Geburtshilfe;2015;Stadt Mnchen;2169;770009;355
+Frauenheilkunde und Geburtshilfe;2015;Stadt MÂnchen;2169;770009;355
 Allgemeinmedizin;2012;Aubing-Lochhausen-Langwied;2164;41116;19
 Allgemeinmedizin;2010;Milbertshofen-Am Hart;2090;68970;33
 Allgemeinmedizin;2011;Schwabing-West;2053;63644;31
 Allgemeinmedizin;2015;Neuhausen;1974.0;49351;25
 Allgemeinmedizin;2012;Schwabing-Freimann;1958;68530;35
-Allgemeinmedizin;2014;Stadt Mnchen;1868;1490681;798
+Allgemeinmedizin;2014;Stadt MÂnchen;1868;1490681;798
 Allgemeinmedizin;2014;Harlaching;1692.0;52452;31
 Allgemeinmedizin;2012;Harlaching;1651.0;51180;31
 Allgemeinmedizin;2010;Schwabing-Freimann;1629;65158;40
-Allgemeinmedizin;2015;Schwanthalerh”he;1599;30381;19
+Allgemeinmedizin;2015;Schwanthalerhâ€he;1599;30381;19
 Allgemeinmedizin;2012;Neuhausen;1571.0;47128;30
 Frauenheilkunde und Geburtshilfe;2011;Maxvorstadt;1554;24864;16
 Allgemeinmedizin;2010;Laim;1439;51805;36
@@ -431,22 +431,22 @@ Frauenheilkunde und Geburtshilfe;2014;Obermenzing;1223.1;18346;15
 Frauenheilkunde und Geburtshilfe;2015;Obermenzing;1200.9;18614;16
 Frauenheilkunde und Geburtshilfe;2012;Obermenzing;1184.7;17770;15
 Allgemeinmedizin;2016;Obermenzing;2326.0;37216;16
-Frauenheilkunde und Geburtshilfe;2014;Forstenried-Frstenried;4722.5;15741;3
-Frauenheilkunde und Geburtshilfe;2013;Forstenried-Frstenried;4659.8;15532;3
-Frauenheilkunde und Geburtshilfe;2011;Forstenried-Frstenried;4446.1;14820;3
-Frauenheilkunde und Geburtshilfe;2015;Forstenried-Frstenried;4381.6;16065;4
-Frauenheilkunde und Geburtshilfe;2010;Forstenried-Frstenried;4367.3;14557;3
-Frauenheilkunde und Geburtshilfe;2016;Forstenried-Frstenried;4077.1;16308;4
-Frauenheilkunde und Geburtshilfe;2017;Forstenried-Frstenried;4061.1;16244;4
-Allgemeinmedizin;2013;Forstenried-Frstenried;2214.4;30263;14
-Allgemeinmedizin;2011;Forstenried-Frstenried;2191.5;28489;13
-Allgemeinmedizin;2012;Forstenried-Frstenried;2181.8;29090;13
-Allgemeinmedizin;2017;Forstenried-Frstenried;2171.7;31851;15
-Allgemeinmedizin;2014;Forstenried-Frstenried;2125.9;30470;14
-Allgemeinmedizin;2016;Forstenried-Frstenried;2091.3;32066;15
-Allgemeinmedizin;2010;Forstenried-Frstenried;2089.6;27861;13
-Allgemeinmedizin;2015;Forstenried-Frstenried;1991.5;31200;16
-Frauenheilkunde und Geburtshilfe;2012;Forstenried-Frstenried;4525.0;15083;3
+Frauenheilkunde und Geburtshilfe;2014;Forstenried-FÂrstenried;4722.5;15741;3
+Frauenheilkunde und Geburtshilfe;2013;Forstenried-FÂrstenried;4659.8;15532;3
+Frauenheilkunde und Geburtshilfe;2011;Forstenried-FÂrstenried;4446.1;14820;3
+Frauenheilkunde und Geburtshilfe;2015;Forstenried-FÂrstenried;4381.6;16065;4
+Frauenheilkunde und Geburtshilfe;2010;Forstenried-FÂrstenried;4367.3;14557;3
+Frauenheilkunde und Geburtshilfe;2016;Forstenried-FÂrstenried;4077.1;16308;4
+Frauenheilkunde und Geburtshilfe;2017;Forstenried-FÂrstenried;4061.1;16244;4
+Allgemeinmedizin;2013;Forstenried-FÂrstenried;2214.4;30263;14
+Allgemeinmedizin;2011;Forstenried-FÂrstenried;2191.5;28489;13
+Allgemeinmedizin;2012;Forstenried-FÂrstenried;2181.8;29090;13
+Allgemeinmedizin;2017;Forstenried-FÂrstenried;2171.7;31851;15
+Allgemeinmedizin;2014;Forstenried-FÂrstenried;2125.9;30470;14
+Allgemeinmedizin;2016;Forstenried-FÂrstenried;2091.3;32066;15
+Allgemeinmedizin;2010;Forstenried-FÂrstenried;2089.6;27861;13
+Allgemeinmedizin;2015;Forstenried-FÂrstenried;1991.5;31200;16
+Frauenheilkunde und Geburtshilfe;2012;Forstenried-FÂrstenried;4525.0;15083;3
 Frauenheilkunde und Geburtshilfe;2014;Solln;4722.5;15741;3
 Frauenheilkunde und Geburtshilfe;2013;Solln;4659.8;15532;3
 Frauenheilkunde und Geburtshilfe;2011;Solln;4446.1;14820;3
