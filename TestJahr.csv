@@ -1,4 +1,4 @@
-Arzt Fachrichtung,Jahr,R‰umliche Gliederung,ƒrztedichte,Anzahl Einwohner,Anzahl ƒrzte
+Arzt Fachrichtung,Jahr,Stadtteil,Dichte,Anzahl Einwohner,Anzahl Aerzte
 Allgemeinmedizin,2015,Ludwigsvorstadt-Isarvorstadt,916.1,54049,59
 Allgemeinmedizin,2016,Ludwigsvorstadt-Isarvorstadt,885.7,54915,62
 Allgemeinmedizin,2012,Ludwigsvorstadt-Isarvorstadt,871.2,49657,57
@@ -113,13 +113,13 @@ Allgemeinmedizin,2015,Thalkirchen-Obersendling,1991.5,31200,16
 Allgemeinmedizin,2011,Aubing-Lochhausen-Langwied,1989.5,39789,20
 Allgemeinmedizin,2016,Aubing-Lochhausen-Langwied,1981.4,45571,23
 Allgemeinmedizin,2013,Pasing,1966.2,35391,18
-Allgemeinmedizin,2017,Stadt MÅnchen,1956.5,1526056,780
+Allgemeinmedizin,2017,Stadt M¬Ånchen,1956.5,1526056,780
 Allgemeinmedizin,2017,Bogenhausen,1953.9,85971,44
 Allgemeinmedizin,2014,Aubing-Lochhausen-Langwied,1948.1,42859,22
 Allgemeinmedizin,2010,Aubing-Lochhausen-Langwied,1943.2,38863,20
-Allgemeinmedizin,2016,Stadt MÅnchen,1921.4,1542860,803
+Allgemeinmedizin,2016,Stadt M¬Ånchen,1921.4,1542860,803
 Allgemeinmedizin,2015,Aubing-Lochhausen-Langwied,1899.2,43682,23
-Allgemeinmedizin,2015,Stadt MÅnchen,1892.6,1521678,804
+Allgemeinmedizin,2015,Stadt M¬Ånchen,1892.6,1521678,804
 Allgemeinmedizin,2017,Harlaching,1878.6,52600,28
 Allgemeinmedizin,2014,Bogenhausen,1864.4,83900,45
 Allgemeinmedizin,2016,Harlaching,1863.8,54050,29
@@ -130,22 +130,22 @@ Allgemeinmedizin,2017,Au-Haidhausen,1846.6,60937,33
 Allgemeinmedizin,2012,Pasing,1823.6,34647,19
 Allgemeinmedizin,2016,Au-Haidhausen,1823.5,61999,34
 Allgemeinmedizin,2014,Neuhausen,1805.9,48761,27
-Allgemeinmedizin,2013,Stadt MÅnchen,1795.3,1464962,816
+Allgemeinmedizin,2013,Stadt M¬Ånchen,1795.3,1464962,816
 Allgemeinmedizin,2015,Harlaching,1779.2,53377,30
-Allgemeinmedizin,2014,Schwanthalerhîhe,1769.6,30083,17
+Allgemeinmedizin,2014,Schwanthalerh‚Äùhe,1769.6,30083,17
 Allgemeinmedizin,2017,Maxvorstadt,1769.3,51311,29
-Allgemeinmedizin,2012,Stadt MÅnchen,1757.6,1439474,819
-Allgemeinmedizin,2013,Schwanthalerhîhe,1744.9,29663,17
+Allgemeinmedizin,2012,Stadt M¬Ånchen,1757.6,1439474,819
+Allgemeinmedizin,2013,Schwanthalerh‚Äùhe,1744.9,29663,17
 Allgemeinmedizin,2016,Bogenhausen,1743.3,87164,50
 Allgemeinmedizin,2015,Bogenhausen,1718.9,85947,50
 Allgemeinmedizin,2010,Allach-Untermenzing,1715.4,29161,17
-Allgemeinmedizin,2011,Stadt MÅnchen,1705.9,1410741,827
+Allgemeinmedizin,2011,Stadt M¬Ånchen,1705.9,1410741,827
 Allgemeinmedizin,2013,Neuhausen,1682.6,47953,29
 Allgemeinmedizin,2016,Maxvorstadt,1670.1,53443,32
 Allgemeinmedizin,2011,Pasing,1655.6,33939,20
-Allgemeinmedizin,2017,Schwanthalerhîhe,1640.8,29535,18
+Allgemeinmedizin,2017,Schwanthalerh‚Äùhe,1640.8,29535,18
 Allgemeinmedizin,2011,Harlaching,1627.6,50455,31
-Allgemeinmedizin,2010,Stadt MÅnchen,1624.3,1382273,851
+Allgemeinmedizin,2010,Stadt M¬Ånchen,1624.3,1382273,851
 Allgemeinmedizin,2011,Neuhausen,1616.5,46069,29
 Allgemeinmedizin,2012,Bogenhausen,1616.3,80816,50
 Allgemeinmedizin,2013,Bogenhausen,1610.6,82138,51
@@ -153,17 +153,17 @@ Allgemeinmedizin,2011,Bogenhausen,1583.5,79175,50
 Allgemeinmedizin,2010,Bogenhausen,1582.5,77542,49
 Allgemeinmedizin,2010,Pasing,1577.2,33122,21
 Allgemeinmedizin,2015,Au-Haidhausen,1576.8,61495,39
-Allgemeinmedizin,2012,Schwanthalerhîhe,1547.5,29402,19
+Allgemeinmedizin,2012,Schwanthalerh‚Äùhe,1547.5,29402,19
 Allgemeinmedizin,2012,Laim,1524.5,53359,35
 Allgemeinmedizin,2014,Laim,1519.8,54714,36
-Allgemeinmedizin,2016,Schwanthalerhîhe,1514.1,30282,20
-Allgemeinmedizin,2011,Schwanthalerhîhe,1509.4,28678,19
+Allgemeinmedizin,2016,Schwanthalerh‚Äùhe,1514.1,30282,20
+Allgemeinmedizin,2011,Schwanthalerh‚Äùhe,1509.4,28678,19
 Allgemeinmedizin,2014,Maxvorstadt,1502.1,52575,35
 Allgemeinmedizin,2013,Laim,1500.8,54030,36
 Allgemeinmedizin,2015,Laim,1496.6,55374,37
 Allgemeinmedizin,2015,Maxvorstadt,1492.9,53743,36
 Allgemeinmedizin,2017,Laim,1481.1,56281,38
-Allgemeinmedizin,2010,Schwanthalerhîhe,1473.9,28004,19
+Allgemeinmedizin,2010,Schwanthalerh‚Äùhe,1473.9,28004,19
 Allgemeinmedizin,2011,Laim,1464.8,52733,36
 Allgemeinmedizin,2010,Harlaching,1455.9,49502,34
 Allgemeinmedizin,2016,Laim,1444.5,56335,39
@@ -190,11 +190,11 @@ Allgemeinmedizin,2010,Milbertshofen-Am Hart,2090,68970,33
 Allgemeinmedizin,2011,Schwabing-West,2053,63644,31
 Allgemeinmedizin,2015,Neuhausen,1974.0,49351,25
 Allgemeinmedizin,2012,Schwabing-Freimann,1958,68530,35
-Allgemeinmedizin,2014,Stadt MÅnchen,1868,1490681,798
+Allgemeinmedizin,2014,Stadt M¬Ånchen,1868,1490681,798
 Allgemeinmedizin,2014,Harlaching,1692.0,52452,31
 Allgemeinmedizin,2012,Harlaching,1651.0,51180,31
 Allgemeinmedizin,2010,Schwabing-Freimann,1629,65158,40
-Allgemeinmedizin,2015,Schwanthalerhîhe,1599,30381,19
+Allgemeinmedizin,2015,Schwanthalerh‚Äùhe,1599,30381,19
 Allgemeinmedizin,2012,Neuhausen,1571.0,47128,30
 Allgemeinmedizin,2010,Laim,1439,51805,36
 Allgemeinmedizin,2015,Altstadt-Lehel,384,21122,55
@@ -215,14 +215,14 @@ Allgemeinmedizin,2012,Obermenzing,1823.6,34647,19
 Allgemeinmedizin,2011,Obermenzing,1655.6,33939,20
 Allgemeinmedizin,2010,Obermenzing,1577.2,33122,21
 Allgemeinmedizin,2016,Obermenzing,2326.0,37216,16
-Allgemeinmedizin,2013,Forstenried-FÅrstenried,2214.4,30263,14
-Allgemeinmedizin,2011,Forstenried-FÅrstenried,2191.5,28489,13
-Allgemeinmedizin,2012,Forstenried-FÅrstenried,2181.8,29090,13
-Allgemeinmedizin,2017,Forstenried-FÅrstenried,2171.7,31851,15
-Allgemeinmedizin,2014,Forstenried-FÅrstenried,2125.9,30470,14
-Allgemeinmedizin,2016,Forstenried-FÅrstenried,2091.3,32066,15
-Allgemeinmedizin,2010,Forstenried-FÅrstenried,2089.6,27861,13
-Allgemeinmedizin,2015,Forstenried-FÅrstenried,1991.5,31200,16
+Allgemeinmedizin,2013,Forstenried-F¬Årstenried,2214.4,30263,14
+Allgemeinmedizin,2011,Forstenried-F¬Årstenried,2191.5,28489,13
+Allgemeinmedizin,2012,Forstenried-F¬Årstenried,2181.8,29090,13
+Allgemeinmedizin,2017,Forstenried-F¬Årstenried,2171.7,31851,15
+Allgemeinmedizin,2014,Forstenried-F¬Årstenried,2125.9,30470,14
+Allgemeinmedizin,2016,Forstenried-F¬Årstenried,2091.3,32066,15
+Allgemeinmedizin,2010,Forstenried-F¬Årstenried,2089.6,27861,13
+Allgemeinmedizin,2015,Forstenried-F¬Årstenried,1991.5,31200,16
 Allgemeinmedizin,2013,Solln,2214.4,30263,14
 Allgemeinmedizin,2011,Solln,2191.5,28489,13
 Allgemeinmedizin,2012,Solln,2181.8,29090,13
